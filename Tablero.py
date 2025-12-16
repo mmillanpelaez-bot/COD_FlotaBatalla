@@ -7,4 +7,4 @@ class tablero:
         return self.__String__()
 
 if __name__ == "__main__":
-    tablero = tablero(tablero)
+    tablero1 = tablero(tablero)
