@@ -4,7 +4,9 @@ class tablero:
 
 
     def __str__(self):
-        return self.__String__()
+        return f" nombre: {self.tablero}"
 
 if __name__ == "__main__":
+
     tablero1 = tablero(tablero)
+    print(tablero1)
