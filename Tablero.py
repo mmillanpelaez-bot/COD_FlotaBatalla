@@ -6,11 +6,11 @@ class tablero:
     def __str__(self):
         return f" nombre: {self.tablero}"
 
-    def set_.tablero():
+    def set_tablero(self):
         if 1 + 1:
             self.tablero
 
-    def get_.tablero(self):
+    def get_tablero(self):
         return tablero
 
 if __name__ == "__main__":
